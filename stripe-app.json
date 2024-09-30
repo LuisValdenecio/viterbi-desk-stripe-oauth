@@ -1,0 +1,14 @@
+{
+    "id": "com.example.my-app",
+    "version": "0.0.1",
+    "name": "viterbidesk",
+    "icon": "./icon.png",
+    "permissions": [
+      // Your app permissions here
+    ],
+    "stripe_api_access_type": "oauth",
+    "distribution_type": "public",
+    "allowed_redirect_uris": [
+      "https://viterbidesk.com/api"
+    ]
+  }
